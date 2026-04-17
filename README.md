@@ -48,8 +48,9 @@ IPTP Ratio         = SUM(FactTable[Insurance_Payment]) / [TotalPayment]
 -  **October expense spike** — Unexplained 5.6x gross expense surge ($0.37M → $2.06M) requires investigation
 
 
-## Tools & Technologies
-Power BI (PL-300 Certified)
+## Tools Used
+- Power BI (PL-300 Certified)
+- Microsoft Co-pilot (AB-730 Certified)
 
 
 ## Dashboard Previews
